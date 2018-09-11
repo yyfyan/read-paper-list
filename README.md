@@ -52,4 +52,5 @@ semantic segmentation/object detection/light-weight network
 * ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions(**ChannelNets**)
 
 # **object detection**
-
+* Rich feature hierarchies for accurate object detection and semantic segmentation(**RCNN**)
+* SSD: Single Shot MultiBox Detector(**SSD**)
