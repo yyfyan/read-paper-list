@@ -30,6 +30,7 @@ semantic segmentation/object detection/light-weight network
 * ExFuse: Enhancing Feature Fusion for Semantic Segmentation(**ExFuse**)
 * Dilated Residual Networks(**DRN**)
 * BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation(**BiSeNet**)
+* Dual Attention Network for Scene Segmentation(**DANet**)
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
