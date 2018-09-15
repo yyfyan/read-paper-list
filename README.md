@@ -47,7 +47,7 @@ semantic segmentation/object detection/light-weight network
 * Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation(**Mobilenet V2**)
 * SqueezeNext: Hardware-Aware Neural Network Design(**SqueezeNext**)
 * CondenseNet: An Efficient DenseNet using Learned Group Convolutions(**CondenseNet**)
-* Pelee: A Real-Time Object Detection System on Mobile Devices(**Pelee**)
+* Pelee: A Real-Time Object Detection System on Mobile Devices(**PeleeNet**)
 * ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design(**ShuffleNet V2**)
 * ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(**ESPNet**)
 * ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions(**ChannelNets**)
