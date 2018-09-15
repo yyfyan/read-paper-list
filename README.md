@@ -36,8 +36,8 @@ semantic segmentation/object detection/light-weight network
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
 * ICNet for Real-Time Semantic Segmentation(**ICNet**)
 * LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation(**LinkNet**)
-* RTSEG: REAL-TIME SEMANTIC SEGMENTATION COMPARATIVE STUDY
-* SHUFFLESEG: REAL-TIME SEMANTIC SEGMENTATION NETWORK(**Shuffleseg**)
+* Rtseg: Real-Time Semantic Segmentation Comparative Study
+* Shuffleseg: Real-Time Semantic Segmentation Network(**Shuffleseg**)
 * ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(**ESPNet**)
 
 # **light-weight network**
