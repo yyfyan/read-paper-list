@@ -87,3 +87,6 @@ semantic segmentation/object detection/light-weight network
 # **Deep object detection**
 * Rich feature hierarchies for accurate object detection and semantic segmentation(**RCNN**)
 * SSD: Single Shot MultiBox Detector(**SSD**)
+
+# **Image Stitching**
+* Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
