@@ -31,6 +31,7 @@ semantic segmentation/object detection/light-weight network
 * Dilated Residual Networks(**DRN**)
 * BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation(**BiSeNet**)
 * Dual Attention Network for Scene Segmentation(**DANet**)
+* OCNet:Object Context Network for Scene Parsing(**OCNet**)
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
@@ -90,3 +91,4 @@ semantic segmentation/object detection/light-weight network
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
+* As-Projective-As-Possible Image Stitching with Moving DLT(**APAP**)
