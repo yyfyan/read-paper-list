@@ -8,7 +8,8 @@ semantic segmentation/object detection/light-weight network
 * Going Deeper with Convolutions(**GoogleNet**)
 * Deep Residual Learning for Image Recognition(**ResNet**)
 * Densely Connected Convolutional Networks(**DenseNet**)
-* Squeeze-and-Excitation Networks(**SENet**) 
+* Squeeze-and-Excitation Networks(**SENet**)
+* Non-local Neural Networks
 
 # **semantic segmentation**
 * Fully Convolutional Networks for Semantic Segmentation(**FCN**)
