@@ -89,8 +89,10 @@ semantic segmentation/object detection/light-weight network
 
 
 # **Deep object detection**
-* Rich feature hierarchies for accurate object detection and semantic segmentation(**RCNN**)
+* Rich feature hierarchies for accurate object detection and semantic segmentation(**R-CNN**)
 * SSD: Single Shot MultiBox Detector(**SSD**)
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(**Faster R-CNN**) 
+
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
