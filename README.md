@@ -85,6 +85,8 @@ semantic segmentation/object detection/light-weight network
 * Multiresolution models for object detection
 * Face Detection without Bells and Whistles
 * Fast Detection of Multiple Objects in Traffic Scenes With a Common Detection Framework
+* An Exploration of Why and When Pedestrian Detection Fails 
+
 
 # **Deep object detection**
 * Rich feature hierarchies for accurate object detection and semantic segmentation(**RCNN**)
