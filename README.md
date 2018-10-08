@@ -71,7 +71,7 @@ semantic segmentation/object detection/light-weight network
 * Pedestrian Detection with Spatially Pooled Features and Structured Ensemble Learning(**SpatialPooling+**)
 * BAdaCost: Multi-class Boosting with Costs(**BAdaCost**)
 * Exploring Prior Knowledge for Pedestrian Detection(**SCCPriors**)
-* A Fast, Modular Scene Understanding System using Context-Aware Object Detection
+* A Fast, Modular Scene Understanding System using Context-Aware Object Detection(**SC-ACF**）
 * Ten Years of Pedestrian Detection,What Have We Learned?(**Katamari**)
 * How Far are We from Solving Pedestrian Detection?
 * What Can Help Pedestrian Detection?
