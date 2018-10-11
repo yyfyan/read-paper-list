@@ -34,7 +34,7 @@ semantic segmentation/object detection/light-weight network
 * Dual Attention Network for Scene Segmentation(**DANet**)
 * OCNet:Object Context Network for Scene Parsing(**OCNet**)
 * RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation(**RefineNet**)
-* Light-Weight RefineNet for Real-Time Semantic Segmentation(**Light-Weight RefineNet**) 
+ 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
 * ICNet for Real-Time Semantic Segmentation(**ICNet**)
@@ -42,6 +42,7 @@ semantic segmentation/object detection/light-weight network
 * Rtseg: Real-Time Semantic Segmentation Comparative Study
 * Shuffleseg: Real-Time Semantic Segmentation Network(**Shuffleseg**)
 * ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(**ESPNet**)
+* Light-Weight RefineNet for Real-Time Semantic Segmentation(**Light-Weight RefineNet**)
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
