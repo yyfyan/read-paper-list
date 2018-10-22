@@ -34,7 +34,8 @@ semantic segmentation/object detection/light-weight network
 * Dual Attention Network for Scene Segmentation(**DANet**)
 * OCNet:Object Context Network for Scene Parsing(**OCNet**)
 * RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation(**RefineNet**)
- 
+* Dense Relation Network: Learning Consistent And Context-Aware Prepresentation For Semantic Image Segmentation(**DRN**)
+
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
 * ICNet for Real-Time Semantic Segmentation(**ICNet**)
@@ -93,7 +94,10 @@ semantic segmentation/object detection/light-weight network
 # **Deep object detection**
 * Rich feature hierarchies for accurate object detection and semantic segmentation(**R-CNN**)
 * SSD: Single Shot MultiBox Detector(**SSD**)
-* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(**Faster R-CNN**) 
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(**Faster R-CNN**)
+* Feature Pyramid Networks for Object Detection(**FPN**) 
+* S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
+* FaceBoxes: A CPU Real-time Face Detector with High Accuracy(**FaceBoxes**)
 
 
 # **Image Stitching**
