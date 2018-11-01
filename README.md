@@ -9,6 +9,7 @@ semantic segmentation/object detection/light-weight network
 * Deep Residual Learning for Image Recognition(**ResNet**)
 * Densely Connected Convolutional Networks(**DenseNet**)
 * Squeeze-and-Excitation Networks(**SENet**)
+* Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks(**GENet**)
 * Non-local Neural Networks
 
 # **semantic segmentation**
