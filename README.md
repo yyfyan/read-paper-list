@@ -45,6 +45,9 @@ semantic segmentation/object detection/light-weight network
 * Shuffleseg: Real-Time Semantic Segmentation Network(**Shuffleseg**)
 * ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(**ESPNet**)
 * Light-Weight RefineNet for Real-Time Semantic Segmentation(**Light-Weight RefineNet**)
+* LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation(**LinkNet**)
+* D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction(**D-LinkNet**)
+
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
