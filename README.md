@@ -102,7 +102,7 @@ semantic segmentation/object detection/light-weight network
 * Feature Pyramid Networks for Object Detection(**FPN**) 
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
 * FaceBoxes: A CPU Real-time Face Detector with High Accuracy(**FaceBoxes**)
-
+* Is Faster R-CNN Doing Well for Pedestrian Detection?(**RPN_BF**)
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
