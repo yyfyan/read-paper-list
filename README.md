@@ -47,7 +47,9 @@ semantic segmentation/object detection/light-weight network
 * Light-Weight RefineNet for Real-Time Semantic Segmentation(**Light-Weight RefineNet**)
 * LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation(**LinkNet**)
 * D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction(**D-LinkNet**)
-
+* CGNet: A Light-weight Context Guided Network for Semantic Segmentation(**CGNet**)
+* Efficient ConvNet for Real-time Semantic Segmentation
+* A Comparative Study of Real-time Semantic Segmentation for Autonomous Driving
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
