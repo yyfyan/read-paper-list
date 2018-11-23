@@ -50,6 +50,7 @@ semantic segmentation/object detection/light-weight network
 * CGNet: A Light-weight Context Guided Network for Semantic Segmentation(**CGNet**)
 * Efficient ConvNet for Real-time Semantic Segmentation
 * A Comparative Study of Real-time Semantic Segmentation for Autonomous Driving
+* ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
