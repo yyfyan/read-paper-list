@@ -51,7 +51,7 @@ semantic segmentation/object detection/light-weight network
 * CGNet: A Light-weight Context Guided Network for Semantic Segmentation(**CGNet**)
 * Efficient ConvNet for Real-time Semantic Segmentation
 * A Comparative Study of Real-time Semantic Segmentation for Autonomous Driving
-* ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time
+* ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time(**ContextNet**)
 * ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network(**ESPNetV2**)
 * ShelfNet for Real-time semantic segmentation(**ShelfNet**)
 
