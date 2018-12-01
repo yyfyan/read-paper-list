@@ -36,6 +36,7 @@ semantic segmentation/object detection/light-weight network
 * OCNet:Object Context Network for Scene Parsing(**OCNet**)
 * RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation(**RefineNet**)
 * Dense Relation Network: Learning Consistent And Context-Aware Prepresentation For Semantic Image Segmentation(**DRN**)
+* CCNet: Criss-Cross Attention for Semantic Segmentation(**CCNet**)
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
@@ -51,6 +52,9 @@ semantic segmentation/object detection/light-weight network
 * Efficient ConvNet for Real-time Semantic Segmentation
 * A Comparative Study of Real-time Semantic Segmentation for Autonomous Driving
 * ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time
+* ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network(**ESPNetV2**)
+* ShelfNet for Real-time semantic segmentation(**ShelfNet**)
+
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
@@ -63,6 +67,7 @@ semantic segmentation/object detection/light-weight network
 * ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design(**ShuffleNet V2**)
 * ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(**ESPNet**)
 * ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions(**ChannelNets**)
+* ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network(**ESPNetV2**)
 
 # **non-deep object detection**
 * Robust Real-Time Face Detection(**Haar+Adaboost**)
