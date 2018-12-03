@@ -54,7 +54,7 @@ semantic segmentation/object detection/light-weight network
 * ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time(**ContextNet**)
 * ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network(**ESPNetV2**)
 * ShelfNet for Real-time semantic segmentation(**ShelfNet**)
-
+* ERFNet: Efficient Residual Factorized ConvNet for Real-Time Semantic Segmentation(**ERFNet**)
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
