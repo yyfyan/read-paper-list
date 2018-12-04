@@ -37,6 +37,7 @@ semantic segmentation/object detection/light-weight network
 * RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation(**RefineNet**)
 * Dense Relation Network: Learning Consistent And Context-Aware Prepresentation For Semantic Image Segmentation(**DRN**)
 * CCNet: Criss-Cross Attention for Semantic Segmentation(**CCNet**)
+* Unified Perceptual Parsing for Scene Understanding(**UPerNet**)
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
