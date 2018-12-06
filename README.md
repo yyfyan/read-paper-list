@@ -69,6 +69,10 @@ semantic segmentation/object detection/light-weight network
 * ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(**ESPNet**)
 * ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions(**ChannelNets**)
 * ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network(**ESPNetV2**)
+* Interleaved Group Convolutions for Deep Neural Networks(**IGCV1**)
+* IGCV2: Interleaved Structured Sparse Convolutional Neural Networks(**IGCV2**)
+* IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks(**IGCV3**)
+
 
 # **non-deep object detection**
 * Robust Real-Time Face Detection(**Haar+Adaboost**)
