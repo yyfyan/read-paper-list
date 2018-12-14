@@ -38,6 +38,7 @@ semantic segmentation/object detection/light-weight network
 * Dense Relation Network: Learning Consistent And Context-Aware Prepresentation For Semantic Image Segmentation(**DRN**)
 * CCNet: Criss-Cross Attention for Semantic Segmentation(**CCNet**)
 * Unified Perceptual Parsing for Scene Understanding(**UPerNet**)
+* Tree-structured Kronecker Convolutional Networks for Semantic Segmentation(**TKNet**)
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
