@@ -121,6 +121,8 @@ semantic segmentation/object detection/light-weight network
 * Is Faster R-CNN Doing Well for Pedestrian Detection?(**RPN_BF**)
 * Training Region-based Object Detectors with Online Hard Example Mining(**OHEM**)
 * Receptive Field Block Net for Accurate and Fast Object Detection(**RFBNet**)
+* Focal Loss for Dense Object Detection(**RetinaNet**)
+
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
