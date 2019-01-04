@@ -116,12 +116,15 @@ semantic segmentation/object detection/light-weight network
 * SSD: Single Shot MultiBox Detector(**SSD**)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks(**Faster R-CNN**)
 * Feature Pyramid Networks for Object Detection(**FPN**) 
-* S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
-* FaceBoxes: A CPU Real-time Face Detector with High Accuracy(**FaceBoxes**)
 * Is Faster R-CNN Doing Well for Pedestrian Detection?(**RPN_BF**)
 * Training Region-based Object Detectors with Online Hard Example Mining(**OHEM**)
 * Receptive Field Block Net for Accurate and Fast Object Detection(**RFBNet**)
 * Focal Loss for Dense Object Detection(**RetinaNet**)
+
+# **Face Detection**
+* S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
+* FaceBoxes: A CPU Real-time Face Detector with High Accuracy(**FaceBoxes**)
+* Detecting Face with Densely Connected Face Proposal Network(**DCFPN**)
 
 
 # **Image Stitching**
