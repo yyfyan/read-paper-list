@@ -127,6 +127,7 @@ semantic segmentation/object detection/light-weight network
 * Detecting Face with Densely Connected Face Proposal Network(**DCFPN**)
 * SSH: Single Stage Headless Face Detector(**SSH**)
 * DSFD: Dual Shot Face Detector(**DSFD**)
+* Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks(**MTCNN**)
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
