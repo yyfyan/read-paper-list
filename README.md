@@ -126,6 +126,7 @@ semantic segmentation/object detection/light-weight network
 * FaceBoxes: A CPU Real-time Face Detector with High Accuracy(**FaceBoxes**)
 * Detecting Face with Densely Connected Face Proposal Network(**DCFPN**)
 * SSH: Single Stage Headless Face Detector(**SSH**)
+* DSFD: Dual Shot Face Detector(**DSFD**)
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
