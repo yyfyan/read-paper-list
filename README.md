@@ -120,6 +120,7 @@ semantic segmentation/object detection/light-weight network
 * Training Region-based Object Detectors with Online Hard Example Mining(**OHEM**)
 * Receptive Field Block Net for Accurate and Fast Object Detection(**RFBNet**)
 * Focal Loss for Dense Object Detection(**RetinaNet**)
+* Single-Shot Refinement Neural Network for Object Detection(**RefinDet**)
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
