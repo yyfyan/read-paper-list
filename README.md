@@ -129,6 +129,8 @@ semantic segmentation/object detection/light-weight network
 * SSH: Single Stage Headless Face Detector(**SSH**)
 * DSFD: Dual Shot Face Detector(**DSFD**)
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks(**MTCNN**)
+* PyramidBox: A Context-assisted Single Shot Face Detector(**PyramidBox**)
+* SRN:Selective Refinement Network for High Performance Face Detection(**SRN**)
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
