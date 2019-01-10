@@ -121,6 +121,8 @@ semantic segmentation/object detection/light-weight network
 * Receptive Field Block Net for Accurate and Fast Object Detection(**RFBNet**)
 * Focal Loss for Dense Object Detection(**RetinaNet**)
 * Single-Shot Refinement Neural Network for Object Detection(**RefinDet**)
+* PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection
+
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
