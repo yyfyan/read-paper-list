@@ -133,6 +133,8 @@ semantic segmentation/object detection/light-weight network
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks(**MTCNN**)
 * PyramidBox: A Context-assisted Single Shot Face Detector(**PyramidBox**)
 * SRN:Selective Refinement Network for High Performance Face Detection(**SRN**)
+* Single Shot Attention-Based Face Detector(**AFN**)
+
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
