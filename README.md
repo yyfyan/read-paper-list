@@ -39,6 +39,8 @@ semantic segmentation/object detection/light-weight network
 * CCNet: Criss-Cross Attention for Semantic Segmentation(**CCNet**)
 * Unified Perceptual Parsing for Scene Understanding(**UPerNet**)
 * Tree-structured Kronecker Convolutional Networks for Semantic Segmentation(**TKNet**)
+* NeuroIoU: Learning a Surrogate Loss for Semantic Segmentation(**NeuroIoU**)
+
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
