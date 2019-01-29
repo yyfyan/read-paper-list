@@ -61,6 +61,8 @@ semantic segmentation/object detection/light-weight network
 * ERFNet: Efficient Residual Factorized ConvNet for Real-Time Semantic Segmentation(**ERFNet**)
 * Concentrated-Comprehensive Convolutions for lightweight semantic segmentation(**CCCNet**)
 * DSNet for Real-Time Driving Scene Semantic Segmentation(**DSNet**)
+* Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation(**EDANet**)
+
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
