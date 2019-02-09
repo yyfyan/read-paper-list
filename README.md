@@ -144,3 +144,7 @@ semantic segmentation/object detection/light-weight network
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
 * As-Projective-As-Possible Image Stitching with Moving DLT(**APAP**)
+* Shape-Preserving Half-Projective Warps for Image Stitching(**SPHP**)
+* Adaptive As-Natural-As-Possible Image Stitching(**AANAP**)
+
+
