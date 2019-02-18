@@ -63,7 +63,7 @@ semantic segmentation/object detection/light-weight network
 * Concentrated-Comprehensive Convolutions for lightweight semantic segmentation(**CCCNet**)
 * DSNet for Real-Time Driving Scene Semantic Segmentation(**DSNet**)
 * Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation(**EDANet**)
-* Fast-SCNN: Fast Semantic Segmentation Network(Fast-SCNN)
+* Fast-SCNN: Fast Semantic Segmentation Network(**Fast-SCNN**)
 
 
 
