@@ -64,7 +64,7 @@ semantic segmentation/object detection/light-weight network
 * DSNet for Real-Time Driving Scene Semantic Segmentation(**DSNet**)
 * Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation(**EDANet**)
 * Fast-SCNN: Fast Semantic Segmentation Network(**Fast-SCNN**)
-
+* Guided Upsampling Network for Real-Time Semantic Segmentation(**GUN**)
 
 
 # **light-weight network**
