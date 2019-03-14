@@ -142,7 +142,7 @@ semantic segmentation/object detection/light-weight network
 * PyramidBox: A Context-assisted Single Shot Face Detector(**PyramidBox**)
 * SRN:Selective Refinement Network for High Performance Face Detection(**SRN**)
 * Single Shot Attention-Based Face Detector(**AFN**)
-
+* ScratchDet: Training Single-Shot Object Detectors from Scratch(**ScratchDet**)
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
