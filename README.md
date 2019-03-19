@@ -143,6 +143,8 @@ semantic segmentation/object detection/light-weight network
 * SRN:Selective Refinement Network for High Performance Face Detection(**SRN**)
 * Single Shot Attention-Based Face Detector(**AFN**)
 * ScratchDet: Training Single-Shot Object Detectors from Scratch(**ScratchDet**)
+* Pooling Pyramid Network for Object Detection（**PPN**）
+
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
