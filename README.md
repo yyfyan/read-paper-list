@@ -32,7 +32,6 @@ semantic segmentation/object detection/light-weight network
 * Exploring Context with Deep Structured models for Semantic Segmentation(**FeatMap-Net**)
 * ExFuse: Enhancing Feature Fusion for Semantic Segmentation(**ExFuse**)
 * Dilated Residual Networks(**DRN**)
-* BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation(**BiSeNet**)
 * Dual Attention Network for Scene Segmentation(**DANet**)
 * OCNet:Object Context Network for Scene Parsing(**OCNet**)
 * RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation(**RefineNet**)
@@ -46,6 +45,7 @@ semantic segmentation/object detection/light-weight network
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
 * ICNet for Real-Time Semantic Segmentation(**ICNet**)
+* BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation(**BiSeNet**)
 * LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation(**LinkNet**)
 * Rtseg: Real-Time Semantic Segmentation Comparative Study
 * Shuffleseg: Real-Time Semantic Segmentation Network(**Shuffleseg**)
@@ -63,9 +63,9 @@ semantic segmentation/object detection/light-weight network
 * Concentrated-Comprehensive Convolutions for lightweight semantic segmentation(**CCCNet**)
 * DSNet for Real-Time Driving Scene Semantic Segmentation(**DSNet**)
 * Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation(**EDANet**)
-* Fast-SCNN: Fast Semantic Segmentation Network(**Fast-SCNN**)
+* Fast-SCNN: Fast Semantic SegmentIn Defense of Pre-trained ImageNet Architecturesation Network(**Fast-SCNN**)
 * Guided Upsampling Network for Real-Time Semantic Segmentation(**GUN**)
-
+* for Real-time Semantic Segmentation of Road-driving Images(**SwiftNetRN**)
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
