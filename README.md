@@ -40,7 +40,7 @@ semantic segmentation/object detection/light-weight network
 * Unified Perceptual Parsing for Scene Understanding(**UPerNet**)
 * Tree-structured Kronecker Convolutional Networks for Semantic Segmentation(**TKNet**)
 * NeuroIoU: Learning a Surrogate Loss for Semantic Segmentation(**NeuroIoU**)
-
+* Decoders Matter for Semantic Segmentation:Data-Dependent Decoding Enables Flexible Feature Aggregation
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
@@ -131,6 +131,10 @@ semantic segmentation/object detection/light-weight network
 * PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection(**PVANET**)
 * Multi-label learning of part detectors for heavily occluded pedestrian detection(**JL-TopS**)
 * Graininess-aware Deep Feature Learning for Pedestrian Detection(**GDFL**)
+* M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network(**M2Det**) 
+* CFENet: An Accurate and Efficient Single-Shot Object Detector for Autonomous Driving(**CFENet**) 
+* ScratchDet: Training Single-Shot Object Detectors from Scratch(**ScratchDet**) 
+* Pooling Pyramid Network for Object Detection（**PPN**）
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
@@ -142,8 +146,7 @@ semantic segmentation/object detection/light-weight network
 * PyramidBox: A Context-assisted Single Shot Face Detector(**PyramidBox**)
 * SRN:Selective Refinement Network for High Performance Face Detection(**SRN**)
 * Single Shot Attention-Based Face Detector(**AFN**)
-* ScratchDet: Training Single-Shot Object Detectors from Scratch(**ScratchDet**)
-* Pooling Pyramid Network for Object Detection（**PPN**）
+
 
 
 # **Image Stitching**
