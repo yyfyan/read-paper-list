@@ -66,6 +66,7 @@ semantic segmentation/object detection/light-weight network
 * Fast-SCNN: Fast Semantic SegmentIn Defense of Pre-trained ImageNet Architecturesation Network(**Fast-SCNN**)
 * Guided Upsampling Network for Real-Time Semantic Segmentation(**GUN**)
 * for Real-time Semantic Segmentation of Road-driving Images(**SwiftNetRN**)
+* Residual Pyramid Learning for Single-Shot Semantic Segmentation(**RPNet**)
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
