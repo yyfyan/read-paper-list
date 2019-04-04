@@ -41,6 +41,7 @@ semantic segmentation/object detection/light-weight network
 * Tree-structured Kronecker Convolutional Networks for Semantic Segmentation(**TKNet**)
 * NeuroIoU: Learning a Surrogate Loss for Semantic Segmentation(**NeuroIoU**)
 * Decoders Matter for Semantic Segmentation:Data-Dependent Decoding Enables Flexible Feature Aggregation
+* GFF: Gated Fully Fusion for Semantic Segmentation（**GFF**）
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
