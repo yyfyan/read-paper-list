@@ -68,6 +68,7 @@ semantic segmentation/object detection/light-weight network
 * Guided Upsampling Network for Real-Time Semantic Segmentation(**GUN**)
 * In Defense of Pre-trained ImageNet Architecturesfor Real-time Semantic Segmentation of Road-driving Images(**SwiftNetRN**)
 * Residual Pyramid Learning for Single-Shot Semantic Segmentation(**RPNet**)
+* DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation(**DFANet**)
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
