@@ -12,6 +12,7 @@ semantic segmentation/object detection/light-weight network
 * Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks(**GENet**)
 * Non-local Neural Networks
 * Convolutional Neural Networks with layer reuse(**LruNet**)
+* GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond(**GCNet**)
 
 # **semantic segmentation**
 * Fully Convolutional Networks for Semantic Segmentation(**FCN**)
