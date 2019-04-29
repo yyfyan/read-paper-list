@@ -13,6 +13,7 @@ semantic segmentation/object detection/light-weight network
 * Non-local Neural Networks
 * Convolutional Neural Networks with layer reuse(**LruNet**)
 * GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond(**GCNet**)
+* Rethinking ImageNet Pre-training
 
 # **semantic segmentation**
 * Fully Convolutional Networks for Semantic Segmentation(**FCN**)
