@@ -88,6 +88,8 @@ semantic segmentation/object detection/light-weight network
 * Interleaved Group Convolutions for Deep Neural Networks(**IGCV1**)
 * IGCV2: Interleaved Structured Sparse Convolutional Neural Networks(**IGCV2**)
 * IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks(**IGCV3**)
+* MnasNet: Platform-Aware Neural Architecture Search for Mobile(**MnasNet**)
+* FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search(**FBNet**)
 
 
 # **non-deep object detection**
