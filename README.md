@@ -44,6 +44,7 @@ semantic segmentation/object detection/light-weight network
 * NeuroIoU: Learning a Surrogate Loss for Semantic Segmentation(**NeuroIoU**)
 * Decoders Matter for Semantic Segmentation:Data-Dependent Decoding Enables Flexible Feature Aggregation
 * GFF: Gated Fully Fusion for Semantic Segmentation（**GFF**）
+* Learning Fully Dense Neural Networks for Image Semantic Segmentation（**FDNet**）
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
