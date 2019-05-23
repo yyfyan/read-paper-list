@@ -72,6 +72,8 @@ semantic segmentation/object detection/light-weight network
 * Residual Pyramid Learning for Single-Shot Semantic Segmentation(**RPNet**)
 * DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation(**DFANet**)
 * DSNet: An Efficient CNN for Road Scene Segmentation(**DSNet**) 
+* Spatial Sampling Network for Fast Scene Understanding
+
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
