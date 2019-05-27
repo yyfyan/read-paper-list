@@ -147,6 +147,7 @@ semantic segmentation/object detection/light-weight network
 * ScratchDet: Training Single-Shot Object Detectors from Scratch(**ScratchDet**) 
 * Pooling Pyramid Network for Object Detection（**PPN**）
 * ThunderNet: Towards Real-time Generic Object Detection(**ThunderNet**)
+* Light-Weight RetinaNet for Object Detection
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
