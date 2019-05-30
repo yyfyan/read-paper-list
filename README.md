@@ -93,7 +93,7 @@ semantic segmentation/object detection/light-weight network
 * IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks(**IGCV3**)
 * MnasNet: Platform-Aware Neural Architecture Search for Mobile(**MnasNet**)
 * FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search(**FBNet**)
-
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(**EfficientNet**)
 
 # **non-deep object detection**
 * Robust Real-Time Face Detection(**Haar+Adaboost**)
