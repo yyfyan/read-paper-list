@@ -171,7 +171,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 
 # **Instance segmentation**
 * Fully Convolutional Instance-aware Semantic Segmentation(**FCIS**)
-* Instance-aware Semantic Segmentation via Multi-task Network Cascades(**NMC**)
+* Instance-aware Semantic Segmentation via Multi-task Network Cascades(**MNC**)
 * Mask R-CNN
 * Mask Scoring R-CNN
 * Path Aggregation Network for Instance Segmentation(**PANet**)
