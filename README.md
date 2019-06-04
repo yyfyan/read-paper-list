@@ -1,5 +1,5 @@
 # read-paper-list
-semantic segmentation/object detection/light-weight network
+semantic segmentation/object detection/light-weight network/instance segmentation
 
 # **Deep-base-network**
 * ImageNet Classification with Deep Convolutional Neural Networks(**AlexNet**)
