@@ -15,6 +15,26 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond(**GCNet**)
 * Rethinking ImageNet Pre-training
 
+# **light-weight network**
+* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
+* Mobilenets: Efficient convolutional neural networks for mobile vision applications(**Mobilenet V1**)
+* ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices(**ShuffleNet V1**)
+* Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation(**Mobilenet V2**)
+* SqueezeNext: Hardware-Aware Neural Network Design(**SqueezeNext**)
+* CondenseNet: An Efficient DenseNet using Learned Group Convolutions(**CondenseNet**)
+* Pelee: A Real-Time Object Detection System on Mobile Devices(**PeleeNet**)
+* ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design(**ShuffleNet V2**)
+* ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(**ESPNet**)
+* ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions(**ChannelNets**)
+* ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network(**ESPNetV2**)
+* Interleaved Group Convolutions for Deep Neural Networks(**IGCV1**)
+* IGCV2: Interleaved Structured Sparse Convolutional Neural Networks(**IGCV2**)
+* IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks(**IGCV3**)
+* MnasNet: Platform-Aware Neural Architecture Search for Mobile(**MnasNet**)
+* FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search(**FBNet**)
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(**EfficientNet**)
+* DiCENet: Dimension-wise Convolutions for Efficient Networks(**DiCENet**)
+
 # **semantic segmentation**
 * Fully Convolutional Networks for Semantic Segmentation(**FCN**)
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation(**SegNet**)
@@ -75,62 +95,6 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * DSNet: An Efficient CNN for Road Scene Segmentation(**DSNet**) 
 * Spatial Sampling Network for Fast Scene Understanding
 
-
-# **light-weight network**
-* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
-* Mobilenets: Efficient convolutional neural networks for mobile vision applications(**Mobilenet V1**)
-* ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices(**ShuffleNet V1**)
-* Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation(**Mobilenet V2**)
-* SqueezeNext: Hardware-Aware Neural Network Design(**SqueezeNext**)
-* CondenseNet: An Efficient DenseNet using Learned Group Convolutions(**CondenseNet**)
-* Pelee: A Real-Time Object Detection System on Mobile Devices(**PeleeNet**)
-* ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design(**ShuffleNet V2**)
-* ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(**ESPNet**)
-* ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions(**ChannelNets**)
-* ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network(**ESPNetV2**)
-* Interleaved Group Convolutions for Deep Neural Networks(**IGCV1**)
-* IGCV2: Interleaved Structured Sparse Convolutional Neural Networks(**IGCV2**)
-* IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks(**IGCV3**)
-* MnasNet: Platform-Aware Neural Architecture Search for Mobile(**MnasNet**)
-* FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search(**FBNet**)
-* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(**EfficientNet**)
-* DiCENet: Dimension-wise Convolutions for Efficient Networks(**DiCENet**)
-
-
-# **non-deep object detection**
-* Robust Real-Time Face Detection(**Haar+Adaboost**)
-* Integral Channel Features(**ICF**)
-* The Fastest Pedestrian Detector in the West(**FPDW**)
-* Fast Feature Pyramids for Object Detection(**ACF**)
-* Local Decorrelation for Improved Pedestrian Detection(**LDCF**)
-* Convolutional Channel Features(**CCF**)
-* Informed Haar-like Features Improve Pedestrian Detection(**InformedHaar**)
-* Fast Pedestrian Detection for Mobile Devices(**FastCF**)
-* Pedestrian detection at 100 Frames Per Second(**VeryFast**)
-* To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection(**ACF+/LDCF+**)
-* Filtered channel features for pedestrian detection(**Checkerboard**)
-* Pedestrian Detection Inspired by Appearance Constancy and Shape Symmetry(**NNNF**)
-* Aggregate Channel Features for Multi-view Face Detection(**ACFFace**)
-* Pedestrian Detection with Spatially Pooled Features and Structured Ensemble Learning(**SpatialPooling+**)
-* BAdaCost: Multi-class Boosting with Costs(**BAdaCost**)
-* Exploring Prior Knowledge for Pedestrian Detection(**SCCPriors**)
-* A Fast, Modular Scene Understanding System using Context-Aware Object Detection(**SC-ACF**）
-* Ten Years of Pedestrian Detection,What Have We Learned?(**Katamari**)
-* How Far are We from Solving Pedestrian Detection?
-* What Can Help Pedestrian Detection?
-* Taking a Deeper Look at Pedestrians
-* Semantic Channels for Fast Pedestrian Detection(**MRFC+Semantic**)
-* Fast Boosting based Detection using Scale Invariant Multimodal Multiresolution Filtered Features
-* Learning Multilayer Channel Features for Pedestrian Detection
-* Fast and Robust Object Detection Using Visual Subcategories
-* Learning to Detect Vehicles by Clustering Appearance Patterns(**Subcat**)
-* Looking at Pedestrians at Different Scales: A Multiresolution Approach and Evaluations(**MR-ACF**)
-* Multiresolution models for object detection
-* Face Detection without Bells and Whistles
-* Fast Detection of Multiple Objects in Traffic Scenes With a Common Detection Framework
-* An Exploration of Why and When Pedestrian Detection Fails 
-
-
 # **Deep object detection**
 * Rich feature hierarchies for accurate object detection and semantic segmentation(**R-CNN**)
 * SSD: Single Shot MultiBox Detector(**SSD**)
@@ -165,12 +129,6 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * PyramidBox++: High Performance Detector for Finding Tiny Face(**PyramidBox++**)
 * RetinaFace: Single-stage Dense Face Localisation in the Wild(**RetinaFace**)
 
-# **Image Stitching**
-* Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
-* As-Projective-As-Possible Image Stitching with Moving DLT(**APAP**)
-* Shape-Preserving Half-Projective Warps for Image Stitching(**SPHP**)
-* Adaptive As-Natural-As-Possible Image Stitching(**AANAP**)
-
 # **Instance segmentation**
 * Fully Convolutional Instance-aware Semantic Segmentation(**FCIS**)
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades(**MNC**)
@@ -179,3 +137,44 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Path Aggregation Network for Instance Segmentation(**PANet**)
 * RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free(**RetinaMask**)
 * YOLACT Real-time Instance Segmentation(**YOLACT**)
+
+# **non-deep object detection**
+* Robust Real-Time Face Detection(**Haar+Adaboost**)
+* Integral Channel Features(**ICF**)
+* The Fastest Pedestrian Detector in the West(**FPDW**)
+* Fast Feature Pyramids for Object Detection(**ACF**)
+* Local Decorrelation for Improved Pedestrian Detection(**LDCF**)
+* Convolutional Channel Features(**CCF**)
+* Informed Haar-like Features Improve Pedestrian Detection(**InformedHaar**)
+* Fast Pedestrian Detection for Mobile Devices(**FastCF**)
+* Pedestrian detection at 100 Frames Per Second(**VeryFast**)
+* To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection(**ACF+/LDCF+**)
+* Filtered channel features for pedestrian detection(**Checkerboard**)
+* Pedestrian Detection Inspired by Appearance Constancy and Shape Symmetry(**NNNF**)
+* Aggregate Channel Features for Multi-view Face Detection(**ACFFace**)
+* Pedestrian Detection with Spatially Pooled Features and Structured Ensemble Learning(**SpatialPooling+**)
+* BAdaCost: Multi-class Boosting with Costs(**BAdaCost**)
+* Exploring Prior Knowledge for Pedestrian Detection(**SCCPriors**)
+* A Fast, Modular Scene Understanding System using Context-Aware Object Detection(**SC-ACF**）
+* Ten Years of Pedestrian Detection,What Have We Learned?(**Katamari**)
+* How Far are We from Solving Pedestrian Detection?
+* What Can Help Pedestrian Detection?
+* Taking a Deeper Look at Pedestrians
+* Semantic Channels for Fast Pedestrian Detection(**MRFC+Semantic**)
+* Fast Boosting based Detection using Scale Invariant Multimodal Multiresolution Filtered Features
+* Learning Multilayer Channel Features for Pedestrian Detection
+* Fast and Robust Object Detection Using Visual Subcategories
+* Learning to Detect Vehicles by Clustering Appearance Patterns(**Subcat**)
+* Looking at Pedestrians at Different Scales: A Multiresolution Approach and Evaluations(**MR-ACF**)
+* Multiresolution models for object detection
+* Face Detection without Bells and Whistles
+* Fast Detection of Multiple Objects in Traffic Scenes With a Common Detection Framework
+* An Exploration of Why and When Pedestrian Detection Fails 
+
+# **Image Stitching**
+* Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
+* As-Projective-As-Possible Image Stitching with Moving DLT(**APAP**)
+* Shape-Preserving Half-Projective Warps for Image Stitching(**SPHP**)
+* Adaptive As-Natural-As-Possible Image Stitching(**AANAP**)
+
+
