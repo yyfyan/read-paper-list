@@ -141,6 +141,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Path Aggregation Network for Instance Segmentation(**PANet**)
 * RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free(**RetinaMask**)
 * YOLACT Real-time Instance Segmentation(**YOLACT**)
+* Parsing R-CNN for Instance-Level Human Analysis(**Parsing R-CNN**)
 
 # **non-deep object detection**
 * Robust Real-Time Face Detection(**Haar+Adaboost**)
