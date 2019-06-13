@@ -67,6 +67,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Learning Fully Dense Neural Networks for Image Semantic Segmentation（**FDNet**）
 * ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation(**ZigZagNet**)
 * Adaptive Pyramid Context Network for Semantic Segmentation(**APCNet**)
+* Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation
+
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
