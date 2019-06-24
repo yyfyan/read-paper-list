@@ -145,6 +145,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * BlitzNet: A Real-Time Deep Network for Scene Understanding(**BlitzNet**)
 * Hybrid Task Cascade for Instance Segmentation(**HTC**)
 * Triply Supervised Decoder Networks for Joint Detection and Segmentation(**TripleNet**)
+* ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation(**ZigZagNet**)
 
 # **non-deep object detection**
 * Robust Real-Time Face Detection(**Haar+Adaboost**)
