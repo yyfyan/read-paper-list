@@ -118,6 +118,10 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Pooling Pyramid Network for Object Detection（**PPN**）
 * ThunderNet: Towards Real-time Generic Object Detection(**ThunderNet**)
 * Light-Weight RetinaNet for Object Detection
+* CornerNet: Detecting Objects as Paired Keypoints(**CornerNet**)
+* Bottom-up Object Detection by Grouping Extreme and Center Points(**ExtremeNet**)
+* RepPoints: Point Set Representation for Object Detection(**RepPoints**)
+* FCOS: Fully Convolutional One-Stage Object Detection(**FCOS**)
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
@@ -146,6 +150,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Hybrid Task Cascade for Instance Segmentation(**HTC**)
 * Triply Supervised Decoder Networks for Joint Detection and Segmentation(**TripleNet**)
 * ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation(**ZigZagNet**)
+* YOLACT:Real-time Instance Segmentation(**YOLACT**)
+* Bounding Box Embedding for Single Shot Person Instance Segmentation
 
 # **non-deep object detection**
 * Robust Real-Time Face Detection(**Haar+Adaboost**)
