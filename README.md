@@ -69,7 +69,6 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Adaptive Pyramid Context Network for Semantic Segmentation(**APCNet**)
 * Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation
 
-
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
 * ICNet for Real-Time Semantic Segmentation(**ICNet**)
