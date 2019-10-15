@@ -14,6 +14,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Convolutional Neural Networks with layer reuse(**LruNet**)
 * GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond(**GCNet**)
 * Rethinking ImageNet Pre-training
+* Multi-Stage HRNet: Multiple Stage High-Resolution Network for Human Pose Estimation
+
 
 # **light-weight network**
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size(**SqueezeNet**)
@@ -122,6 +124,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Bottom-up Object Detection by Grouping Extreme and Center Points(**ExtremeNet**)
 * RepPoints: Point Set Representation for Object Detection(**RepPoints**)
 * FCOS: Fully Convolutional One-Stage Object Detection(**FCOS**)
+* Mask-Guided Attention Network for Occluded Pedestrian Detection
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
