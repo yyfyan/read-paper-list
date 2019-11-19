@@ -156,6 +156,11 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * YOLACT:Real-time Instance Segmentation(**YOLACT**)
 * Bounding Box Embedding for Single Shot Person Instance Segmentation
 
+# **Mutil-task learning**
+* End-to-End Multi-Task Learning with Attention
+
+
+
 # **non-deep object detection**
 * Robust Real-Time Face Detection(**Haar+Adaboost**)
 * Integral Channel Features(**ICF**)
