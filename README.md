@@ -36,6 +36,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search(**FBNet**)
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(**EfficientNet**)
 * DiCENet: Dimension-wise Convolutions for Efficient Networks(**DiCENet**)
+* Hybrid Composition with IdleBlock: More Efficient Networks for Image Recognition
+
 
 # **semantic segmentation**
 * Fully Convolutional Networks for Semantic Segmentation(**FCN**)
