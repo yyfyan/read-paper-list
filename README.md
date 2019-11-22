@@ -37,7 +37,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(**EfficientNet**)
 * DiCENet: Dimension-wise Convolutions for Efficient Networks(**DiCENet**)
 * Hybrid Composition with IdleBlock: More Efficient Networks for Image Recognition
-
+* An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection
 
 # **semantic segmentation**
 * Fully Convolutional Networks for Semantic Segmentation(**FCN**)
