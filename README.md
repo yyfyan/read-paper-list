@@ -163,8 +163,14 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Shape-aware Feature Extraction for Instance Segmentation
 
 # **Mutil-task learning**
-* End-to-End Multi-Task Learning with Attention
-
+* End-to-End Multi-Task Learning with Attention.
+* Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics.
+* BlitzNet: A Real-Time Deep Network for Scene Understanding.
+* Triply Supervised Decoder Networks for Joint Detection and Segmentation
+* Real-time Joint Object Detection and Semantic Segmentation Network for Automated Driving.
+* Driving Scene Perception Network: Real-time Joint Detection, Depth Estimation and Semantic Segmentation.
+* GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Network
+* MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving
 
 
 # **non-deep object detection**
