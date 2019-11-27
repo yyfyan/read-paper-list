@@ -160,6 +160,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation(**ZigZagNet**)
 * YOLACT:Real-time Instance Segmentation(**YOLACT**)
 * Bounding Box Embedding for Single Shot Person Instance Segmentation
+* Shape-aware Feature Extraction for Instance Segmentation
 
 # **Mutil-task learning**
 * End-to-End Multi-Task Learning with Attention
