@@ -73,7 +73,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Adaptive Pyramid Context Network for Semantic Segmentation(**APCNet**)
 * Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation
 * ACFNet: Attentional Class Feature Network for Semantic Segmentation(**ACFNet**)
-
+* Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
 * ICNet for Real-Time Semantic Segmentation(**ICNet**)
@@ -127,6 +127,9 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * RepPoints: Point Set Representation for Object Detection(**RepPoints**)
 * FCOS: Fully Convolutional One-Stage Object Detection(**FCOS**)
 * Mask-Guided Attention Network for Occluded Pedestrian Detection
+* Learning Rich Features at High-Speed for Single-Shot Object Detection. 
+* Dynamic Anchor Feature Selection for Single-Shot Object Detection.
+* Contextual Attention for Hand Detection in the Wild
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
