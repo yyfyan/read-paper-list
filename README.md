@@ -102,6 +102,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation(**DFANet**)
 * DSNet: An Efficient CNN for Road Scene Segmentation(**DSNet**) 
 * Spatial Sampling Network for Fast Scene Understanding
+* RGPNET: A REAL-TIME GENERAL PURPOSE SEMANTIC SEGMENTATION
+
 
 # **Deep object detection**
 * Rich feature hierarchies for accurate object detection and semantic segmentation(**R-CNN**)
@@ -161,6 +163,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * YOLACT:Real-time Instance Segmentation(**YOLACT**)
 * Bounding Box Embedding for Single Shot Person Instance Segmentation
 * Shape-aware Feature Extraction for Instance Segmentation
+* Real-Time Panoptic Segmentation from Dense Detections
+
 
 # **Mutil-task learning**
 * End-to-End Multi-Task Learning with Attention.
