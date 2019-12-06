@@ -74,6 +74,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation
 * ACFNet: Attentional Class Feature Network for Semantic Segmentation(**ACFNet**)
 * Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images
+
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
 * ICNet for Real-Time Semantic Segmentation(**ICNet**)
@@ -164,7 +165,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Bounding Box Embedding for Single Shot Person Instance Segmentation
 * Shape-aware Feature Extraction for Instance Segmentation
 * Real-Time Panoptic Segmentation from Dense Detections
-
+* EmbedMask: Embedding Coupling for One-stage Instance Segmentation
 
 # **Mutil-task learning**
 * End-to-End Multi-Task Learning with Attention.
