@@ -133,6 +133,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Learning Rich Features at High-Speed for Single-Shot Object Detection. 
 * Dynamic Anchor Feature Selection for Single-Shot Object Detection.
 * Contextual Attention for Hand Detection in the Wild
+* Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
+
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
