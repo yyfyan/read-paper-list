@@ -213,6 +213,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Face Detection without Bells and Whistles
 * Fast Detection of Multiple Objects in Traffic Scenes With a Common Detection Framework
 * An Exploration of Why and When Pedestrian Detection Fails 
+* Discriminative Sub-categorization
 
 # **Image Stitching**
 * Automatic Panoramic Image Stitching Using Invariant Features(**IJCV2007**) 
