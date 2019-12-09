@@ -134,7 +134,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Dynamic Anchor Feature Selection for Single-Shot Object Detection.
 * Contextual Attention for Hand Detection in the Wild
 * Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
-
+* Multiple Anchor Learning for Visual Object Detection
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
@@ -168,6 +168,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Shape-aware Feature Extraction for Instance Segmentation
 * Real-Time Panoptic Segmentation from Dense Detections
 * EmbedMask: Embedding Coupling for One-stage Instance Segmentation
+* PolyTransform: Deep Polygon Transformer for Instance Segmentation
 
 # **Mutil-task learning**
 * End-to-End Multi-Task Learning with Attention.
