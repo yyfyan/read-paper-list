@@ -169,6 +169,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Real-Time Panoptic Segmentation from Dense Detections
 * EmbedMask: Embedding Coupling for One-stage Instance Segmentation
 * PolyTransform: Deep Polygon Transformer for Instance Segmentation
+* SOLO: Segmenting Objects by Locations
+* RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation
 
 # **Mutil-task learning**
 * End-to-End Multi-Task Learning with Attention.
