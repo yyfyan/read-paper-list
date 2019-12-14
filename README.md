@@ -222,5 +222,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * As-Projective-As-Possible Image Stitching with Moving DLT(**APAP**)
 * Shape-Preserving Half-Projective Warps for Image Stitching(**SPHP**)
 * Adaptive As-Natural-As-Possible Image Stitching(**AANAP**)
-
-
+* MAGSAC: marginalizing sample consensus
+* MAGSAC++, a fast, reliable and accurate robust estimator
+* An Evaluation of Feature Matchers for Fundamental Matrix Estimation
+* GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature correspondence
