@@ -163,7 +163,6 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Hybrid Task Cascade for Instance Segmentation(**HTC**)
 * Triply Supervised Decoder Networks for Joint Detection and Segmentation(**TripleNet**)
 * ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation(**ZigZagNet**)
-* YOLACT:Real-time Instance Segmentation(**YOLACT**)
 * Bounding Box Embedding for Single Shot Person Instance Segmentation
 * Shape-aware Feature Extraction for Instance Segmentation
 * Real-Time Panoptic Segmentation from Dense Detections
@@ -171,6 +170,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * PolyTransform: Deep Polygon Transformer for Instance Segmentation
 * SOLO: Segmenting Objects by Locations
 * RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation
+* SSAP: Single-Shot Instance Segmentation With Affinity Pyramid
 
 # **Mutil-task learning**
 * End-to-End Multi-Task Learning with Attention.
