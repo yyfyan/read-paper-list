@@ -171,6 +171,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * SOLO: Segmenting Objects by Locations
 * RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation
 * SSAP: Single-Shot Instance Segmentation With Affinity Pyramid
+* YOLACT++：Better Real-time Instance Segmentation
+
 
 # **Mutil-task learning**
 * End-to-End Multi-Task Learning with Attention.
