@@ -105,6 +105,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Spatial Sampling Network for Fast Scene Understanding
 * RGPNET: A REAL-TIME GENERAL PURPOSE SEMANTIC SEGMENTATION
 * LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation
+* FASTERSEG: SEARCHING FOR FASTER REAL-TIME SEMANTIC SEGMENTATION
 
 # **Deep object detection**
 * Rich feature hierarchies for accurate object detection and semantic segmentation(**R-CNN**)
