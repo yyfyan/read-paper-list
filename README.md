@@ -106,6 +106,9 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * RGPNET: A REAL-TIME GENERAL PURPOSE SEMANTIC SEGMENTATION
 * LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation
 * FASTERSEG: SEARCHING FOR FASTER REAL-TIME SEMANTIC SEGMENTATION
+* Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search
+* Customizable Architecture Search for Semantic Segmentation
+
 
 # **Deep object detection**
 * Rich feature hierarchies for accurate object detection and semantic segmentation(**R-CNN**)
