@@ -74,8 +74,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation
 * ACFNet: Attentional Class Feature Network for Semantic Segmentation(**ACFNet**)
 * Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images
-
-
+* Dual Graph Convolutional Network for Semantic Segmentation
+* Global Aggregation then Local Distribution in Fully Convolutional Networks
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
@@ -234,3 +234,4 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * MAGSAC++, a fast, reliable and accurate robust estimator
 * An Evaluation of Feature Matchers for Fundamental Matrix Estimation
 * GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature correspondence
+
