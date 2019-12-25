@@ -75,6 +75,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * ACFNet: Attentional Class Feature Network for Semantic Segmentation(**ACFNet**)
 * Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images
 
+
+
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
 * ICNet for Real-Time Semantic Segmentation(**ICNet**)
