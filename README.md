@@ -192,6 +192,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Driving Scene Perception Network: Real-time Joint Detection, Depth Estimation and Semantic Segmentation.
 * GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Network
 * MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving
+* MultiNet++: Multi-Stream Feature Aggregation and Geometric Loss Strategy for Multi-Task Learning
+* Dynamic Task Weighting Methods for Multi-task Networks in Autonomous Driving Systems
 
 
 # **non-deep object detection**
