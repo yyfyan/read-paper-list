@@ -77,7 +77,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Dual Graph Convolutional Network for Semantic Segmentation
 * Global Aggregation then Local Distribution in Fully Convolutional Networks
 * Dynamic Multi-scale Filters for Semantic Segmentation
-
+* Unifying Training and Inference for Panoptic Segmentation
 
 
 # **fast/real-time segmentation**
