@@ -145,7 +145,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
 * Multiple Anchor Learning for Visual Object Detection
 * NETNet: Neighbor Erasing and Transferring Network for Better Single Shot Object Detection
-
+* Is Sampling Heuristics Necessary in Training Deep Object Detectors?
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
