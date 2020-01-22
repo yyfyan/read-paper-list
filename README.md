@@ -144,6 +144,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Contextual Attention for Hand Detection in the Wild
 * Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression
 * Multiple Anchor Learning for Visual Object Detection
+* NETNet: Neighbor Erasing and Transferring Network for Better Single Shot Object Detection
+
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
@@ -194,7 +196,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving
 * MultiNet++: Multi-Stream Feature Aggregation and Geometric Loss Strategy for Multi-Task Learning
 * Dynamic Task Weighting Methods for Multi-task Networks in Autonomous Driving Systems
-
+* MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning
 
 # **non-deep object detection**
 * Robust Real-Time Face Detection(**Haar+Adaboost**)
