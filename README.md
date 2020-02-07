@@ -184,6 +184,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * SSAP: Single-Shot Instance Segmentation With Affinity Pyramid
 * YOLACT++：Better Real-time Instance Segmentation
 * SAIS: Single-stage Anchor-free Instance Segmentation
+* PolarMask: Single Shot Instance Segmentation with Polar Representation
 
 # **Mutil-task learning**
 * End-to-End Multi-Task Learning with Attention.
