@@ -78,7 +78,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Global Aggregation then Local Distribution in Fully Convolutional Networks
 * Dynamic Multi-scale Filters for Semantic Segmentation
 * Unifying Training and Inference for Panoptic Segmentation
-
+* Semantic Flow for Fast and Accurate Scene Parsing
+* AlignSeg: Feature-Aligned Segmentation Networks
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
@@ -113,7 +114,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * FASTERSEG: SEARCHING FOR FASTER REAL-TIME SEMANTIC SEGMENTATION
 * Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search
 * Customizable Architecture Search for Semantic Segmentation
-
+* Semantic Flow for Fast and Accurate Scene Parsing
 
 # **Deep object detection**
 * Rich feature hierarchies for accurate object detection and semantic segmentation(**R-CNN**)
