@@ -202,6 +202,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * MultiNet++: Multi-Stream Feature Aggregation and Geometric Loss Strategy for Multi-Task Learning
 * Dynamic Task Weighting Methods for Multi-task Networks in Autonomous Driving Systems
 * MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning
+* AP-MTL: Attention Pruned Multi-task Learning Model for Real-time Instrument Detection and Segmentation in Robot-assisted Surgery
 
 # **non-deep object detection**
 * Robust Real-Time Face Detection(**Haar+Adaboost**)
