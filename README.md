@@ -80,6 +80,9 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Unifying Training and Inference for Panoptic Segmentation
 * Semantic Flow for Fast and Accurate Scene Parsing
 * AlignSeg: Feature-Aligned Segmentation Networks
+* Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks
+
+
 
 # **fast/real-time segmentation**
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
