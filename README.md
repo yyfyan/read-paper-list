@@ -189,6 +189,7 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * YOLACT++：Better Real-time Instance Segmentation
 * SAIS: Single-stage Anchor-free Instance Segmentation
 * PolarMask: Single Shot Instance Segmentation with Polar Representation
+* BANet: Bidirectional Aggregation Network with Occlusion Handling for Panoptic Segmentation
 
 # **Mutil-task learning**
 * End-to-End Multi-Task Learning with Attention.
