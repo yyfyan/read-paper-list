@@ -118,6 +118,8 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search
 * Customizable Architecture Search for Semantic Segmentation
 * Semantic Flow for Fast and Accurate Scene Parsing
+* BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation
+* ASNet: Aggregated Scale Transformations for Real-Time Semantic Segmentation
 
 # **Deep object detection**
 * Rich feature hierarchies for accurate object detection and semantic segmentation(**R-CNN**)
