@@ -250,4 +250,4 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * MAGSAC++, a fast, reliable and accurate robust estimator
 * An Evaluation of Feature Matchers for Fundamental Matrix Estimation
 * GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature correspondence
-
+* Vanishing Point Guided Natural Image Stitching
