@@ -152,6 +152,13 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Multiple Anchor Learning for Visual Object Detection
 * NETNet: Neighbor Erasing and Transferring Network for Better Single Shot Object Detection
 * Is Sampling Heuristics Necessary in Training Deep Object Detectors?
+* Rethinking Classification and Localization for Object Detection
+* Multiple Anchor Learning for Visual Object Detection
+* Learning from Noisy Anchors for One-stage Object Detection
+* Learning a Unified Sample Weighting Network for Object Detection∗
+* D2Det: Towards High Quality Object Detection and Instance Segmentation
+* AugFPN: Improving Multi-scale Feature Learning for Object Detection
+* Scale-Equalizing Pyramid Convolution for Object Detection
 
 # **Face Detection**
 * S3FD: Single Shot Scale-invariant Face Detector(**SFD**)
