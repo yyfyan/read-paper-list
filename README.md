@@ -258,3 +258,5 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * An Evaluation of Feature Matchers for Fundamental Matrix Estimation
 * GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature correspondence
 * Vanishing Point Guided Natural Image Stitching
+* Warping Residual Based Image Stitching for Large Parallax
+
