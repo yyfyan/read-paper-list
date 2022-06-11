@@ -259,4 +259,6 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature correspondence
 * Vanishing Point Guided Natural Image Stitching
 * Warping Residual Based Image Stitching for Large Parallax
-
+* Geometric Structure Preserving Warp for Natural Image Stitching
+* Automatic Color Image Stitching Using Quaternion Rank-1 Alignment
+* Deep Rectangling for Image Stitching: A Learning Baseline
