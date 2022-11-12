@@ -262,3 +262,6 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 * Geometric Structure Preserving Warp for Natural Image Stitching
 * Automatic Color Image Stitching Using Quaternion Rank-1 Alignment
 * Deep Rectangling for Image Stitching: A Learning Baseline
+
+# **Multi-modal Fusion**
+* Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline
