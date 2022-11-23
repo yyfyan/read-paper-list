@@ -265,3 +265,4 @@ semantic segmentation/object detection/light-weight network/instance segmentatio
 
 # **Multi-modal Fusion**
 * Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline
+* Robust Small Object Detection on the Water Surface Through Fusion of Camera and Millimeter Wave Radar
